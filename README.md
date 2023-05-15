@@ -1,4 +1,4 @@
-# My Software Renderer
+# my Software Renderer
 
 - About
 
@@ -38,16 +38,8 @@
 
   I'm sorry I still not implement the GUI and export this project as an .exe file. Now I just want to focus on the graphics stuff. If you want to have a check for the output, please open .sln file by VisualStudio and simply run the project, then open the output.tga (sorry again, for not using popular image format) in the "myrenderer" folder.
 
+  If you want to have a check on the renderer code, please open mygl.h and main.cpp files. These 2 are the main codes, and others are just libraries or sth dependence.
+
 - Others
 
   I start this plan in the early April 2023, and it's still very naive and immature. I plan to continuously shape the codes and improve this project as possible as I can.
-
-  
-
-  
-
-  
-
-  
-
-   
