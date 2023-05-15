@@ -43,3 +43,7 @@
 - Others
 
   I start this plan in the early April 2023, and it's still very naive and immature. I plan to continuously shape the codes and improve this project as possible as I can.
+
+- Copyright
+
+  Models copyright reserves to Yostar Inc and Mihoyo Inc.
