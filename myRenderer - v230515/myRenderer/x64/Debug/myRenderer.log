@@ -1,0 +1,83 @@
+﻿  main.cpp
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\tgaimage.h(60,54): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(335,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(359,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(442,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(443,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(444,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(445,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(507,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(527,84): warning C4244: '=': conversion from '_Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(563,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(563,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(564,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(564,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(565,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(565,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(568,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(568,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(569,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(569,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(570,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(570,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\geometry.h(151,56): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\geometry.h(148): message : while compiling class template member function 'mat<4,4,float> mat<4,4,float>::negative_identity(void)'
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(160,6): message : see reference to function template instantiation 'mat<4,4,float> mat<4,4,float>::negative_identity(void)' being compiled
+D:\_CGstuff\myRenderer\myRenderer - v230515\myRenderer\mygl.h(131,19): message : see reference to class template instantiation 'mat<4,4,float>' being compiled
+  myRenderer.vcxproj -> D:\_CGstuff\myRenderer\myRenderer - v230515\x64\Debug\myRenderer.exe
