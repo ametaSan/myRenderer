@@ -1,4 +1,4 @@
-# my Software Renderer
+# My Software Renderer
 
 - About
 
