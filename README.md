@@ -2,11 +2,11 @@
 
 - About
 
-  Now I'm spending some time building a soft-renderer. It won't be so noble though, but it's meaningful to me.  I'm try to build it by C++ from the scratch, using as few libraries as possible. Definitely APIs like openGL would NOT be used in this proj.
+  Now I'm spending some time building a soft-renderer. It won't be so noble though, but it's meaningful to me.  I'm try to build it by C++ from the scratch, using as few libraries as possible. Definitely APIs of some specifications like OpenGL would NOT be used in this project.
 
 - Reference
 
-  I refer the known soft-renderer tutorials, [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki). However, my codes are quite different from the tutorials contents. I code mainly with the help of the [tigerbook](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037). After master the knowledge in the book, I try to coding myself. It's pretty funny.
+  I refer the known soft-renderer tutorials, [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki). However, my codes are quite different from the tutorials contents. I code mainly with the help of the [tigerbook](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037). After mastering the knowledge in the book, I try to coding myself. It's pretty funny.
 
 - Libraries
 
@@ -47,3 +47,13 @@
 - Copyright
 
   Models copyright reserves to Yostar Inc and Mihoyo Inc.
+
+  
+
+  
+
+  
+
+  
+
+   
