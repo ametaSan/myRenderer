@@ -36,7 +36,7 @@
 
 - Simply have a look
 
-  Because it's renderer totally by CPU, it spends some time. I'll speedup the rendering process as future work.
+  Because it's rendered totally by CPU, it spends some time. I'll speedup the rendering process as future work.
 
   ![preview](preview.gif)
 

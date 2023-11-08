@@ -1,4 +1,9 @@
 /packages
 /x64
+/Debug
+/Release
 /.vs
 /myRenderer/x64
+/myRenderer/output
+/myRenderer/Debug
+/myRenderer/Release
