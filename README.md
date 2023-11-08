@@ -46,7 +46,7 @@
 
 - Copyright
 
-  Models copyright reserves to Yostar Inc and Mihoyo Inc.
+  Models copyright reserves to Yostar Inc.
 
   
 
