@@ -18,13 +18,14 @@
   - orthogonal/perspective projection
   - hidden face removal (z-buffer)
 
-  - Gouraud shading
+  - Gouraud-shading
 
-  - Phong Shading
+  - Phong-shading
   - self-shadowing (hard)
   - output depth map
   - clipping
   - texturing
+  - Ambient occlusion (AO)
 
 - Functions expected
 
@@ -36,9 +37,19 @@
 
 - Simply have a look
 
-  Because it's rendered totally by CPU, it spends some time. I'll speedup the rendering process as future work.
+  - Rendering process. Because it's rendered totally by CPU, it spends some time. I'll speedup the rendering process as future work.
 
-  ![preview](preview.gif)
+  ![preview](imgPreview/preview.gif)
+
+  - AO. It's time consuming.
+
+    ![AO](imgPreview/AO.png)
+
+  - depth map
+
+    ![AO](imgPreview/depth.png)
+
+  
 
 - Others
 
